@@ -58,3 +58,14 @@ body {
         .menu button:hover {
             background-color: #ff0d51;
         }
+ .card-img-top {
+            height: 200px;
+            object-fit: cover; /* Mantiene la proporción de la imagen y cubre el espacio asignado */
+            width: 100%;
+        }
+        
+        .navbar-brand img {
+            width: 70px;
+            height: 70px;
+            object-fit: contain; /* Mantiene la proporción del logo */
+        }
