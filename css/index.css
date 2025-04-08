@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    color: white;
+}
 body {
             background-color: #002B7A;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -59,4 +62,6 @@ body {
             background-color: #ff0d51;
         }
 
-
+        .card{
+            margin: 30px;
+        }
